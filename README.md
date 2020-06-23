@@ -1,4 +1,6 @@
 # boring-algo
+Just for entertainment.
+
 You need Node and yarn in order to run this program.
 
 ## To run
